@@ -22,28 +22,28 @@ R-merit: R-merit is the metric for accessing commune engagement and reputation. 
 
 Privledges template:
 
- ...25,000 Enable purposals and reviews about the qualifier of R-merit and privledges.
- ...20,000 Trusted Competency: Expanded editing, deletion and undeletion privileges
- ...15,000 Set R-merit qualify on Demands 
- ...10,000 Meta Editor: reviews reviewers  
- ...5,000 approve tag wiki edits  Approve edits to tag wikis made by regular users
- ...3,000 cast close and reopen votes on demands and reviews on anything in competency
- ...2,500 Create a competency bridge.
- ...2,000 Create a competency purposals make competency purposal reviews
- ...1,500 Moderate a didact, purpose a didact.
- ...1,000 Become a Sub-editor
- ...500 access Commune review queues Access first purposals and late reviews review queues
- ...250 view closed demands View and cast close/reopen demands on your own demands
- ...200 Wave a fallacy/ Non-factual flag
- ...125 vote down indicate when questions and answers are not useful
- ...100 edit Commune wiki Collaborate on the editing and improvement of the wiki
- ...100 Paricipate in a didact
- ...75 set bounties offer some of your R-merit as bounty for a Demand
- ...50 Recursive commenting: can now flag and review, flags and reviews
- ...20 Attend a didact
- ...15 Flag fallacies: ability to indicate to the Commune a fallacious or non-factual assertion
- ...15 Ability to Yay, Nay or Appray 
- ...10 remove new user restrictions: Priveledge/ benefits
- ...10 create wiki posts Create answers that can be easily edited by most users
- ...5 Make a meta purposal about the process, Review a Meta purposal about the process
- ...1 Make a purposal, Review a purposal
+*25,000 Enable purposals and reviews about the qualifier of R-merit and privledges.
+*20,000 Trusted Competency: Expanded editing, deletion and undeletion privileges
+*15,000 Set R-merit qualify on Demands 
+*10,000 Meta Editor: reviews reviewers  
+*5,000 approve tag wiki edits  Approve edits to tag wikis made by regular users
+*3,000 cast close and reopen votes on demands and reviews on anything in competency
+*2,500 Create a competency bridge.
+*2,000 Create a competency purposals make competency purposal reviews
+*1,500 Moderate a didact, purpose a didact.
+*1,000 Become a Sub-editor
+*500 access Commune review queues Access first purposals and late reviews review queues
+*250 view closed demands View and cast close/reopen demands on your own demands
+*200 Wave a fallacy/ Non-factual flag
+*125 vote down indicate when questions and answers are not useful
+*100 edit Commune wiki Collaborate on the editing and improvement of the wiki
+*100 Paricipate in a didact
+*75 set bounties offer some of your R-merit as bounty for a Demand
+*50 Recursive commenting: can now flag and review, flags and reviews
+*20 Attend a didact
+*15 Flag fallacies: ability to indicate to the Commune a fallacious or non-factual assertion
+*15 Ability to Yay, Nay or Appray 
+*10 remove new user restrictions: Priveledge/ benefits
+*10 create wiki posts Create answers that can be easily edited by most users
+*5 Make a meta purposal about the process, Review a Meta purposal about the process
+*1 Make a purposal, Review a purposal
