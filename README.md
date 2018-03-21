@@ -22,7 +22,7 @@ R-merit: R-merit is the metric for accessing commune engagement and reputation. 
 
 Privledges template:
 
- 25,000 Enable purposals and reviews about the qualifier of R-merit and privledges.
+ 25,000 Enable purposals and reviews about the qualifier of R-merit and privledges.\n
  20,000 Trusted Competency: Expanded editing, deletion and undeletion privileges
  15,000 Set R-merit qualify on Demands 
  10,000 Meta Editor: reviews reviewers  
