@@ -1,13 +1,13 @@
 # Commune
 
-Abstract:
+## Abstract:
 
 Commune is a agile and open source, high utility self establishing system of organization.
 
 Commune seeks to disrupt descision making process and system solution finding not based on nepotism but on priorization of substance over style for all purposals for change and solutions to problem.
 Most importantly commune seeks to prioritize the delegations of authority to "each according to thier contribution" over all else
 
-Key:
+## Key:
 
 **Didact**: These are live discussion about specific demands and purposals. These are debates/info sessions for the commune to inform them about the process and issues faced by the dilemma. 
 
@@ -17,11 +17,11 @@ Key:
 
 **Editor**: These are members who if they have a signficiant quantity of R-merit in a certain competency they may screen purposals and co-ordinate reviews and purposals to a solution state
 
-**Compen**tency: Each passed review/purposal Earns R-merit that is compentency specific, privledges are only awarded within a competency except.
+**Compentency**: Each passed review/purposal Earns R-merit that is compentency specific, privledges are only awarded within a competency except.
 
-**R-meri**t: R-merit is the metric for accessing commune engagement and reputation. Certain activities increase one's R-merit while others decrease one's R-merit. R-merit. When earned has a Half-life set by the commune to encourage constant participation and engagement in order to maintain privledges within the commune. 
+**R-merit**: R-merit is the metric for accessing commune engagement and reputation. Certain activities increase one's R-merit while others decrease one's R-merit. R-merit. When earned has a Half-life set by the commune to encourage constant participation and engagement in order to maintain privledges within the commune. 
 
-Privledges template:
+## Privledges template:
 
 |R-merit| Privledge                                                                               |
 | ----- |:---------------------------------------------------------------------------------------:|
