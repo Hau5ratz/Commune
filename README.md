@@ -2,7 +2,7 @@
 
 ## Abstract:
 
-Commune is a agile and open source, high utility self establishing system of organization.
+Commune is a agile and open source, high utility, high scalable self establishing system of organization.
 
 Commune seeks to disrupt descision making process and system solution finding not based on nepotism but on priorization of substance over style for all purposals for change and solutions to problem.
 Most importantly commune seeks to prioritize the delegations of authority to "each according to thier contribution" over all else
@@ -29,11 +29,13 @@ Most importantly commune seeks to prioritize the delegations of authority to "ea
 |20,000 | Trusted Competency: Expanded editing, deletion and undeletion privileges.               |
 |15,000 | Set R-merit qualify on Demands                                                          |
 |10,000 | Meta Editor: reviews reviewers                                                          |
+|7,500  | Make and review purposals for parent links                                              |
 |5,000  | approve tag wiki edits  Approve edits to tag wikis made by regular users.               |
 |3,000  | cast close and reopen votes on demands and reviews on anything in competency            |
 |2,500  | Create a competency bridge.                                                             |
 |2,000  | Create a competency purposals make competency purposal reviews                          |
 |1,500  | Moderate a didact, purpose a didact.                                                    |
+|1,250  | Make a purposal for a child link                                                        |
 |1,000  | Become a Sub-editor.                                                                    |
 |500    | access Commune review queues Access first purposals and late reviews review queues.     |
 |250    | view closed demands View and cast close/reopen demands on your own demands              |
