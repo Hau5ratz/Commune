@@ -9,16 +9,17 @@ Most importantly commune seeks to prioritize the delegations of authority to "ea
 
 Key:
 
-Didact: These are live discussion about specific demands and purposals. These are debates/info sessions for the commune to inform them about the process and issues faced by the dilemma. 
+**Didact**: These are live discussion about specific demands and purposals. These are debates/info sessions for the commune to inform them about the process and issues faced by the dilemma. 
 
-Demand: A demand is an issue, gap, or challange that demands a purposal to solve.
-Purposal: A purposal is an imagined solution/modification to a process/problem/means of something these are what are sent for review
+**Demand**: A demand is an issue, gap, or challange that demands a purposal to solve.
 
-Editor: These are members who if they have a signficiant quantity of R-merit in a certain competency they may screen purposals and co-ordinate reviews and purposals to a solution state
+**Purposal**: A purposal is an imagined solution/modification to a process/problem/means of something these are what are sent for review
 
-Compentency: Each passed review/purposal Earns R-merit that is compentency specific, privledges are only awarded within a competency except.
+**Editor**: These are members who if they have a signficiant quantity of R-merit in a certain competency they may screen purposals and co-ordinate reviews and purposals to a solution state
 
-R-merit: R-merit is the metric for accessing commune engagement and reputation. Certain activities increase one's R-merit while others decrease one's R-merit. R-merit. When earned has a Half-life set by the commune to encourage constant participation and engagement in order to maintain privledges within the commune. 
+**Compen**tency: Each passed review/purposal Earns R-merit that is compentency specific, privledges are only awarded within a competency except.
+
+**R-meri**t: R-merit is the metric for accessing commune engagement and reputation. Certain activities increase one's R-merit while others decrease one's R-merit. R-merit. When earned has a Half-life set by the commune to encourage constant participation and engagement in order to maintain privledges within the commune. 
 
 Privledges template:
 
